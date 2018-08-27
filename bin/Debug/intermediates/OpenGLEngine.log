@@ -1,0 +1,87 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (C:\Users\Charles Sun\Programming\cpp\OpenGLEngine\bin\Debug\intermediates\) contains files shared from another project (VoxelEngine.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+c:\users\charles sun\programming\cpp\openglengine\openglengine\src\graphics\material.h(14): warning C4091: 'static ': ignored on left of 'Material::Types' when no variable is declared
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\users\charles sun\programming\cpp\openglengine\dependencies\glfw\include\glfw\glfw3.h(85): note: see previous definition of 'APIENTRY'
+c:\users\charles sun\programming\cpp\openglengine\openglengine\src\game.cpp(78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\charles sun\programming\cpp\openglengine\openglengine\src\game.cpp(99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\charles sun\programming\cpp\openglengine\openglengine\src\game.cpp(175): warning C4018: '<': signed/unsigned mismatch
+c:\users\charles sun\programming\cpp\openglengine\openglengine\src\game.cpp(210): warning C4305: '=': truncation from 'double' to 'float'
+  GameRender.cpp
+c:\users\charles sun\programming\cpp\openglengine\openglengine\src\graphics\material.h(14): warning C4091: 'static ': ignored on left of 'Material::Types' when no variable is declared
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\users\charles sun\programming\cpp\openglengine\dependencies\glfw\include\glfw\glfw3.h(85): note: see previous definition of 'APIENTRY'
+  GameUpdate.cpp
+c:\users\charles sun\programming\cpp\openglengine\openglengine\src\graphics\material.h(14): warning C4091: 'static ': ignored on left of 'Material::Types' when no variable is declared
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\users\charles sun\programming\cpp\openglengine\dependencies\glfw\include\glfw\glfw3.h(85): note: see previous definition of 'APIENTRY'
+c:\users\charles sun\programming\cpp\openglengine\openglengine\src\gameupdate.cpp(9): warning C4244: 'initializing': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+  BasicPostProcessingPass.cpp
+c:\users\charles sun\programming\cpp\openglengine\openglengine\src\graphics\material.h(14): warning C4091: 'static ': ignored on left of 'Material::Types' when no variable is declared
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\users\charles sun\programming\cpp\openglengine\dependencies\glfw\include\glfw\glfw3.h(85): note: see previous definition of 'APIENTRY'
+  FrameBuffers.cpp
+  FrameBuffer.cpp
+  UniformBuffer.cpp
+  Camera.cpp
+  DirectionalLightPass.cpp
+c:\users\charles sun\programming\cpp\openglengine\openglengine\src\graphics\material.h(14): warning C4091: 'static ': ignored on left of 'Material::Types' when no variable is declared
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\users\charles sun\programming\cpp\openglengine\dependencies\glfw\include\glfw\glfw3.h(85): note: see previous definition of 'APIENTRY'
+  GeometryPass.cpp
+c:\users\charles sun\programming\cpp\openglengine\openglengine\src\graphics\material.h(14): warning C4091: 'static ': ignored on left of 'Material::Types' when no variable is declared
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\users\charles sun\programming\cpp\openglengine\dependencies\glfw\include\glfw\glfw3.h(85): note: see previous definition of 'APIENTRY'
+  HDRPass.cpp
+c:\users\charles sun\programming\cpp\openglengine\openglengine\src\graphics\material.h(14): warning C4091: 'static ': ignored on left of 'Material::Types' when no variable is declared
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\users\charles sun\programming\cpp\openglengine\dependencies\glfw\include\glfw\glfw3.h(85): note: see previous definition of 'APIENTRY'
+  Material.cpp
+c:\users\charles sun\programming\cpp\openglengine\openglengine\src\graphics\material.h(14): warning C4091: 'static ': ignored on left of 'Material::Types' when no variable is declared
+  GreedyMesher.cpp
+  Mesh.cpp
+c:\users\charles sun\programming\cpp\openglengine\openglengine\src\graphics\mesh\mesh.cpp(17): warning C4018: '<': signed/unsigned mismatch
+  MeshFactory.cpp
+c:\users\charles sun\programming\cpp\openglengine\openglengine\src\graphics\mesh\meshfactory.cpp(135): warning C4018: '<=': signed/unsigned mismatch
+c:\users\charles sun\programming\cpp\openglengine\openglengine\src\graphics\mesh\meshfactory.cpp(143): warning C4018: '<=': signed/unsigned mismatch
+c:\users\charles sun\programming\cpp\openglengine\openglengine\src\graphics\mesh\meshfactory.cpp(152): warning C4018: '<=': signed/unsigned mismatch
+  PointLightPass.cpp
+c:\users\charles sun\programming\cpp\openglengine\openglengine\src\graphics\material.h(14): warning C4091: 'static ': ignored on left of 'Material::Types' when no variable is declared
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\users\charles sun\programming\cpp\openglengine\dependencies\glfw\include\glfw\glfw3.h(85): note: see previous definition of 'APIENTRY'
+  BloomPass.cpp
+  SSAOPass.cpp
+c:\users\charles sun\programming\cpp\openglengine\openglengine\src\graphics\material.h(14): warning C4091: 'static ': ignored on left of 'Material::Types' when no variable is declared
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\users\charles sun\programming\cpp\openglengine\dependencies\glfw\include\glfw\glfw3.h(85): note: see previous definition of 'APIENTRY'
+  Sampler.cpp
+c:\users\charles sun\programming\cpp\openglengine\openglengine\src\graphics\textures\sampler.cpp(6): warning C4018: '<': signed/unsigned mismatch
+  Texture1D.cpp
+  Generating Code...
+c:\users\charles sun\programming\cpp\openglengine\openglengine\src\graphics\passes\postprocessing\bloompass.cpp(30): warning C4715: 'BloomPass::Init': not all control paths return a value
+c:\users\charles sun\programming\cpp\openglengine\openglengine\src\graphics\mesh\voxelface.h(36): warning C4715: 'VoxelFace::GetOffset': not all control paths return a value
+  Compiling...
+  Texture2D.cpp
+  Main.cpp
+c:\users\charles sun\programming\cpp\openglengine\openglengine\src\graphics\material.h(14): warning C4091: 'static ': ignored on left of 'Material::Types' when no variable is declared
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\users\charles sun\programming\cpp\openglengine\dependencies\glfw\include\glfw\glfw3.h(85): note: see previous definition of 'APIENTRY'
+  glsl.cpp
+  VertexArray.cpp
+  VertexBuffer.cpp
+  IndexBuffer.cpp
+  Window.cpp
+c:\users\charles sun\programming\cpp\openglengine\openglengine\src\application\window.cpp(154): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\charles sun\programming\cpp\openglengine\openglengine\src\application\window.cpp(155): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  mat4.cpp
+  vec2.cpp
+  vec3.cpp
+  vec4.cpp
+  tinythread.cpp
+  Chunk.cpp
+  ChunkManager.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\Charles Sun\Programming\cpp\OpenGLEngine\bin\Debug\vc120.pdb'; linking object as if no debug info
+  OpenGLEngine.vcxproj -> C:\Users\Charles Sun\Programming\cpp\OpenGLEngine\bin\Debug\OpenGLEngine.exe
