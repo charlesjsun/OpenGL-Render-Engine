@@ -11,5 +11,8 @@ Also includes a framework for adding extra post-processing effects such as bloom
 # Logistics
 
 Source file is in the OpenGLEngine folder. 
+
 Main.cpp contains main function.
+
 Wrapper classes for OpenGL objects such as VAOs, VBOs, FBOs, Textures.
+
