@@ -8,3 +8,8 @@ This is because instead of doing lighting calculations for each vertex/fragment 
 
 Also includes a framework for adding extra post-processing effects such as bloom, ambient occlusion, FXAA.
 
+# Logistics
+
+Source file is in the OpenGLEngine folder. 
+Main.cpp contains main function.
+Wrapper classes for OpenGL objects such as VAOs, VBOs, FBOs, Textures.
