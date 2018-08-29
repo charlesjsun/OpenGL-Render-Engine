@@ -10,7 +10,7 @@ Also includes a framework for adding extra post-processing effects such as bloom
 
 # Logistics
 
-Source file is in the OpenGLEngine folder. 
+Source folder is in the OpenGLEngine folder. 
 
 Main.cpp contains main function.
 
